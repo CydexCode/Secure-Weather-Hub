@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { useAuth0 } from "@auth0/auth0-react";
 import { fetchWeatherData } from "../services/weatherService"; // Assuming the service is set up
-import './Weather.css';
+import "./Weather.css";
 
 const Weather = () => {
   const [weatherData, setWeatherData] = useState([]);
@@ -28,7 +28,7 @@ const Weather = () => {
 
   return (
     <div className="weather-container">
-      <h1>Welcome, {user.name}!</h1>
+      <h1>Welcome</h1>
       {error && <div className="error">{error}</div>}
       <div className="weather-list">
         {weatherData.length > 0 ? (

@@ -1,0 +1,141 @@
+/* Navbar Container */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 30px;
+  background: #007bff; /* Blue background */
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+/* Left Section (Home and Weather Link) */
+.left-section {
+  display: flex;
+  align-items: center;
+}
+
+.home-link {
+  text-decoration: none;
+  color: inherit; /* Inherit the color from the parent element */
+  margin-right: 20px; /* Add space between the Home link and Weather link */
+}
+
+.weather-link {
+  margin-left: 15px;
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+  transition: color 0.3s ease-in-out;
+}
+
+.weather-link:hover {
+  color: #ffdd57; /* Yellow hover effect */
+}
+
+/* Navbar Links */
+.navbar a {
+  margin: 0 15px;
+  color: white;
+  text-decoration: none;
+  transition: color 0.3s ease-in-out;
+}
+
+.navbar a:hover {
+  color: #ffdd57; /* Yellow hover effect */
+}
+
+/* Button Styles */
+.navbar button {
+  background: white;
+  color: #007bff;
+  border: none;
+  padding: 8px 15px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.3s ease-in-out;
+}
+
+.navbar button:hover {
+  background: #ffdd57;
+  color: #007bff;
+}
+
+/* Right Section (Authentication) */
+.auth-section {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.user-info {
+  display: flex;
+  align-items: center;
+  margin-right: 15px;
+}
+
+.user-info span {
+  margin-right: 10px;
+  font-size: 16px;
+  color: white;
+}
+
+/* Modal Styling */
+.logout-modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal-content {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.modal-content p {
+  font-size: 18px;
+  margin-bottom: 15px;
+}
+
+.modal-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.confirm-btn {
+  background: #d9534f;
+  color: white;
+  border: none;
+  padding: 8px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.cancel-btn {
+  background: #5bc0de;
+  color: white;
+  border: none;
+  padding: 8px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.confirm-btn:hover {
+  background: #c9302c;
+}
+
+.cancel-btn:hover {
+  background: #31b0d5;
+}

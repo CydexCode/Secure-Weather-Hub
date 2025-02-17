@@ -45,7 +45,7 @@
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/CydexCode/Secure-Weather-Hub.git
-   cd secure-weather-hub/frontend
+   cd secure-weather-hub-application
    ```
 
 2. **Install dependencies:**
@@ -71,7 +71,7 @@
 
 1. **Navigate to the backend directory:**
    ```sh
-   cd ../backend
+   cd ../Secure Weather Hub_API
    ```
 
 2. **Install dependencies:**

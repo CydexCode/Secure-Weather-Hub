@@ -1,0 +1,13 @@
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API.Services\bin\Debug\net8.0\Secure Weather Hub_API.Services.deps.json
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API.Services\bin\Debug\net8.0\Secure Weather Hub_API.Services.dll
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API.Services\bin\Debug\net8.0\Secure Weather Hub_API.Services.pdb
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API.Services\obj\Debug\net8.0\Secure Weather Hub_API.Services.csproj.AssemblyReference.cache
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API.Services\obj\Debug\net8.0\Secure Weather Hub_API.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API.Services\obj\Debug\net8.0\Secure Weather Hub_API.Services.AssemblyInfoInputs.cache
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API.Services\obj\Debug\net8.0\Secure Weather Hub_API.Services.AssemblyInfo.cs
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API.Services\obj\Debug\net8.0\Secure Weather Hub_API.Services.csproj.CoreCompileInputs.cache
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API.Services\obj\Debug\net8.0\Secure Weather Hub_API.Services.sourcelink.json
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API.Services\obj\Debug\net8.0\Secure Weather Hub_API.Services.dll
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API.Services\obj\Debug\net8.0\refint\Secure Weather Hub_API.Services.dll
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API.Services\obj\Debug\net8.0\Secure Weather Hub_API.Services.pdb
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API.Services\obj\Debug\net8.0\ref\Secure Weather Hub_API.Services.dll

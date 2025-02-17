@@ -1,48 +1,56 @@
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.AspNetCore.Builder;
-using Microsoft.AspNetCore.Mvc;
 using Secure_Weather_Hub_API.Services;
-using Microsoft.AspNetCore.Authentication.JwtBearer;
-using Microsoft.IdentityModel.Tokens;
-
 
 var builder = WebApplication.CreateBuilder(args);
-// Add CORS to allow requests from the React frontend
+
+// CORS Policy for React Frontend
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowFrontend",
-        policy => policy.WithOrigins("http://localhost:3000") // React frontend URL
+        policy => policy.WithOrigins("http://localhost:3000")
                         .AllowAnyHeader()
                         .AllowAnyMethod());
 });
 
+// Add Authentication with JWT
+builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+    .AddJwtBearer(options =>
+    {
+        options.Authority = "https://dev-zlk5ifjsubdt1rz0.us.auth0.com";
+        options.Audience = "https://secure-weather-hub-api";
+        options.TokenValidationParameters = new TokenValidationParameters
+        {
+            ValidateIssuerSigningKey = true,
+            ValidateIssuer = true,
+            ValidateAudience = true,
+            ValidateLifetime = true
+        };
+    });
 
-
-
-// Register services
-builder.Services.AddMemoryCache();  // Enable in-memory caching
-builder.Services.AddSingleton<WeatherService>();  // Register WeatherService as Singleton
-builder.Services.AddControllers();  // Add controllers for API
-
-// Add Swagger services
-builder.Services.AddSwaggerGen();  // Register Swagger generator
+// Register Services
+builder.Services.AddMemoryCache();
+builder.Services.AddSingleton<WeatherService>();
+builder.Services.AddControllers();
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline
 if (app.Environment.IsDevelopment())
 {
     app.UseDeveloperExceptionPage();
-
-    // Enable Swagger in development environment
     app.UseSwagger();
-    app.UseSwaggerUI();  // UI to explore and test API
+    app.UseSwaggerUI();
 }
+
 app.UseCors("AllowFrontend");
-
-app.UseRouting();  // Enable routing
-
-app.MapControllers();  // Map controllers to routes
+app.UseRouting();
+app.UseAuthentication(); // Enable Auth Middleware
+app.UseAuthorization();
+app.MapControllers();
 
 app.Run();

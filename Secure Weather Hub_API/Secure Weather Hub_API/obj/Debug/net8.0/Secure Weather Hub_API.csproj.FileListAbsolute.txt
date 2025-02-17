@@ -56,3 +56,63 @@ D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Backend\Secure Weather
 D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Backend\Secure Weather Hub_API\Secure Weather Hub_API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Backend\Secure Weather Hub_API\Secure Weather Hub_API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Backend\Secure Weather Hub_API\Secure Weather Hub_API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\bin\Debug\net8.0\appsettings.Development.json
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\bin\Debug\net8.0\appsettings.json
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\bin\Debug\net8.0\cities.json
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\bin\Debug\net8.0\Secure Weather Hub_API.staticwebassets.endpoints.json
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\bin\Debug\net8.0\Secure Weather Hub_API.exe
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\bin\Debug\net8.0\Secure Weather Hub_API.deps.json
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\bin\Debug\net8.0\Secure Weather Hub_API.runtimeconfig.json
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\bin\Debug\net8.0\Secure Weather Hub_API.dll
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\bin\Debug\net8.0\Secure Weather Hub_API.pdb
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\bin\Debug\net8.0\System.Text.Json.dll
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\obj\Debug\net8.0\Secure Weather Hub_API.csproj.AssemblyReference.cache
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\obj\Debug\net8.0\Secure Weather Hub_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\obj\Debug\net8.0\Secure Weather Hub_API.AssemblyInfoInputs.cache
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\obj\Debug\net8.0\Secure Weather Hub_API.AssemblyInfo.cs
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\obj\Debug\net8.0\Secure Weather Hub_API.csproj.CoreCompileInputs.cache
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\obj\Debug\net8.0\Secure Weather Hub_API.MvcApplicationPartsAssemblyInfo.cs
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\obj\Debug\net8.0\Secure Weather Hub_API.MvcApplicationPartsAssemblyInfo.cache
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\obj\Debug\net8.0\Secure Weather Hub_API.sourcelink.json
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\obj\Debug\net8.0\scopedcss\bundle\Secure Weather Hub_API.styles.css
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\obj\Debug\net8.0\staticwebassets.build.json
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\obj\Debug\net8.0\staticwebassets.development.json
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\obj\Debug\net8.0\staticwebassets\msbuild.Secure Weather Hub_API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\obj\Debug\net8.0\staticwebassets\msbuild.Secure Weather Hub_API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\obj\Debug\net8.0\staticwebassets\msbuild.build.Secure Weather Hub_API.props
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Secure Weather Hub_API.props
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Secure Weather Hub_API.props
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\obj\Debug\net8.0\Secure W.D3F898CF.Up2Date
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\obj\Debug\net8.0\Secure Weather Hub_API.dll
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\obj\Debug\net8.0\refint\Secure Weather Hub_API.dll
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\obj\Debug\net8.0\Secure Weather Hub_API.pdb
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\obj\Debug\net8.0\Secure Weather Hub_API.genruntimeconfig.cache
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\obj\Debug\net8.0\ref\Secure Weather Hub_API.dll
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\bin\Debug\net8.0\Secure Weather Hub_API.Services.dll
+D:\projects_ dotnet\Secure Weather Hub\Secure-Weather-Hub\Secure Weather Hub_API\Secure Weather Hub_API\bin\Debug\net8.0\Secure Weather Hub_API.Services.pdb

@@ -1,21 +1,33 @@
-import React from "react";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import React, { useEffect } from "react";
 import { useAuth0 } from "@auth0/auth0-react";
-import Navbar from "./components/Navbar";
-import Home from "./components/Home";
 import Weather from "./components/Weather";
 
 function App() {
-  const { isAuthenticated } = useAuth0();
+  const { isAuthenticated, loginWithRedirect, logout, isLoading } = useAuth0();
 
-  return (
-    <Router>
-      <Navbar />
-      <Routes>
-        <Route path="/" element={<Home />} />
-        {isAuthenticated && <Route path="/weather" element={<Weather />} />}
-      </Routes>
-    </Router>
+  // Trigger login only once when the user is not authenticated
+  useEffect(() => {
+    if (!isAuthenticated && !isLoading) {
+      loginWithRedirect();
+    }
+  }, [isAuthenticated, isLoading, loginWithRedirect]);
+
+  // Show loading state while authentication is in progress
+  if (isLoading) {
+    return <p>Loading...</p>;
+  }
+
+  // Show app content after login
+  return isAuthenticated ? (
+    <div className="App">
+      <button onClick={() => logout({ returnTo: window.location.origin })}>
+        Log Out
+      </button>
+      <Weather />
+    </div>
+  ) : (
+    <p>Please verify your email before logging in.</p>
   );
 }
+
 export default App;

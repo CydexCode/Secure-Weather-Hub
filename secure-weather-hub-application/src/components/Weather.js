@@ -1,27 +1,34 @@
 import React, { useState, useEffect } from "react";
-import { fetchWeatherData } from "../services/weatherService";
-import "./Weather.css";
+import { useAuth0 } from "@auth0/auth0-react";
+import { fetchWeatherData } from "../services/weatherService"; // Assuming the service is set up
+import './Weather.css';
 
 const Weather = () => {
   const [weatherData, setWeatherData] = useState([]);
   const [error, setError] = useState(null);
+  const { isAuthenticated, user } = useAuth0();
 
   useEffect(() => {
-    const getWeather = async () => {
-      try {
-        const data = await fetchWeatherData();
-        setWeatherData(data);
-      } catch (error) {
-        setError(error.message);
-      }
-    };
+    if (isAuthenticated) {
+      const getWeather = async () => {
+        try {
+          const data = await fetchWeatherData();
+          setWeatherData(data);
+        } catch (error) {
+          setError(error.message);
+        }
+      };
+      getWeather();
+    }
+  }, [isAuthenticated]);
 
-    getWeather();
-  }, []);
+  if (!isAuthenticated) {
+    return <p>Please log in to view weather data.</p>;
+  }
 
   return (
     <div className="weather-container">
-      <h1>Weather Information</h1>
+      <h1>Welcome, {user.name}!</h1>
       {error && <div className="error">{error}</div>}
       <div className="weather-list">
         {weatherData.length > 0 ? (
@@ -40,4 +47,4 @@ const Weather = () => {
   );
 };
 
-export default Weather; 
+export default Weather;

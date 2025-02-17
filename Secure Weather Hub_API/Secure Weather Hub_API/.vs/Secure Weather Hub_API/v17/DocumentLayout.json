@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "D:\\projects_ dotnet\\Secure Weather Hub\\Secure-Weather-Hub\\Backend\\Secure Weather Hub_API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{182685EC-8885-450C-A0E0-C6AA759C3CE5}|Secure Weather Hub_API\\Secure Weather Hub_API.csproj|d:\\projects_ dotnet\\secure weather hub\\secure-weather-hub\\backend\\secure weather hub_api\\secure weather hub_api\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{182685EC-8885-450C-A0E0-C6AA759C3CE5}|Secure Weather Hub_API\\Secure Weather Hub_API.csproj|solutionrelative:secure weather hub_api\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{182685EC-8885-450C-A0E0-C6AA759C3CE5}|Secure Weather Hub_API\\Secure Weather Hub_API.csproj|d:\\projects_ dotnet\\secure weather hub\\secure-weather-hub\\backend\\secure weather hub_api\\secure weather hub_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182685EC-8885-450C-A0E0-C6AA759C3CE5}|Secure Weather Hub_API\\Secure Weather Hub_API.csproj|solutionrelative:secure weather hub_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{182685EC-8885-450C-A0E0-C6AA759C3CE5}|Secure Weather Hub_API\\Secure Weather Hub_API.csproj|d:\\projects_ dotnet\\secure weather hub\\secure-weather-hub\\backend\\secure weather hub_api\\secure weather hub_api\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{182685EC-8885-450C-A0E0-C6AA759C3CE5}|Secure Weather Hub_API\\Secure Weather Hub_API.csproj|solutionrelative:secure weather hub_api\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{182685EC-8885-450C-A0E0-C6AA759C3CE5}|Secure Weather Hub_API\\Secure Weather Hub_API.csproj|d:\\projects_ dotnet\\secure weather hub\\secure-weather-hub\\backend\\secure weather hub_api\\secure weather hub_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{182685EC-8885-450C-A0E0-C6AA759C3CE5}|Secure Weather Hub_API\\Secure Weather Hub_API.csproj|solutionrelative:secure weather hub_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{182685EC-8885-450C-A0E0-C6AA759C3CE5}|Secure Weather Hub_API\\Secure Weather Hub_API.csproj|d:\\projects_ dotnet\\secure weather hub\\secure-weather-hub\\backend\\secure weather hub_api\\secure weather hub_api\\models\\citylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182685EC-8885-450C-A0E0-C6AA759C3CE5}|Secure Weather Hub_API\\Secure Weather Hub_API.csproj|solutionrelative:secure weather hub_api\\models\\citylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182685EC-8885-450C-A0E0-C6AA759C3CE5}|Secure Weather Hub_API\\Secure Weather Hub_API.csproj|d:\\projects_ dotnet\\secure weather hub\\secure-weather-hub\\backend\\secure weather hub_api\\secure weather hub_api\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182685EC-8885-450C-A0E0-C6AA759C3CE5}|Secure Weather Hub_API\\Secure Weather Hub_API.csproj|solutionrelative:secure weather hub_api\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182685EC-8885-450C-A0E0-C6AA759C3CE5}|Secure Weather Hub_API\\Secure Weather Hub_API.csproj|d:\\projects_ dotnet\\secure weather hub\\secure-weather-hub\\backend\\secure weather hub_api\\secure weather hub_api\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182685EC-8885-450C-A0E0-C6AA759C3CE5}|Secure Weather Hub_API\\Secure Weather Hub_API.csproj|solutionrelative:secure weather hub_api\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{182685EC-8885-450C-A0E0-C6AA759C3CE5}|Secure Weather Hub_API\\Secure Weather Hub_API.csproj|d:\\projects_ dotnet\\secure weather hub\\secure-weather-hub\\backend\\secure weather hub_api\\secure weather hub_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{182685EC-8885-450C-A0E0-C6AA759C3CE5}|Secure Weather Hub_API\\Secure Weather Hub_API.csproj|solutionrelative:secure weather hub_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{182685EC-8885-450C-A0E0-C6AA759C3CE5}|Secure Weather Hub_API\\Secure Weather Hub_API.csproj|d:\\projects_ dotnet\\secure weather hub\\secure-weather-hub\\backend\\secure weather hub_api\\secure weather hub_api\\models\\citylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{182685EC-8885-450C-A0E0-C6AA759C3CE5}|Secure Weather Hub_API\\Secure Weather Hub_API.csproj|solutionrelative:secure weather hub_api\\models\\citylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{182685EC-8885-450C-A0E0-C6AA759C3CE5}|Secure Weather Hub_API\\Secure Weather Hub_API.csproj|d:\\projects_ dotnet\\secure weather hub\\secure-weather-hub\\backend\\secure weather hub_api\\secure weather hub_api\\secure weather hub_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -29,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{182685EC-8885-450C-A0E0-C6AA759C3CE5}|Secure Weather Hub_API\\Secure Weather Hub_API.csproj|d:\\projects_ dotnet\\secure weather hub\\secure-weather-hub\\backend\\secure weather hub_api\\secure weather hub_api\\cities.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{182685EC-8885-450C-A0E0-C6AA759C3CE5}|Secure Weather Hub_API\\Secure Weather Hub_API.csproj|solutionrelative:secure weather hub_api\\cities.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{182685EC-8885-450C-A0E0-C6AA759C3CE5}|Secure Weather Hub_API\\Secure Weather Hub_API.csproj|d:\\projects_ dotnet\\secure weather hub\\secure-weather-hub\\backend\\secure weather hub_api\\secure weather hub_api\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{182685EC-8885-450C-A0E0-C6AA759C3CE5}|Secure Weather Hub_API\\Secure Weather Hub_API.csproj|solutionrelative:secure weather hub_api\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{182685EC-8885-450C-A0E0-C6AA759C3CE5}|Secure Weather Hub_API\\Secure Weather Hub_API.csproj|d:\\projects_ dotnet\\secure weather hub\\secure-weather-hub\\backend\\secure weather hub_api\\secure weather hub_api\\secure weather hub_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "CityList.cs",
               "DocumentMoniker": "D:\\projects_ dotnet\\Secure Weather Hub\\Secure-Weather-Hub\\Backend\\Secure Weather Hub_API\\Secure Weather Hub_API\\Models\\CityList.cs",
               "RelativeDocumentMoniker": "Secure Weather Hub_API\\Models\\CityList.cs",
@@ -78,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "City.cs",
               "DocumentMoniker": "D:\\projects_ dotnet\\Secure Weather Hub\\Secure-Weather-Hub\\Backend\\Secure Weather Hub_API\\Secure Weather Hub_API\\Models\\City.cs",
               "RelativeDocumentMoniker": "Secure Weather Hub_API\\Models\\City.cs",
@@ -90,13 +90,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\projects_ dotnet\\Secure Weather Hub\\Secure-Weather-Hub\\Backend\\Secure Weather Hub_API\\Secure Weather Hub_API\\Program.cs",
               "RelativeDocumentMoniker": "Secure Weather Hub_API\\Program.cs",
-              "ToolTip": "D:\\projects_ dotnet\\Secure Weather Hub\\Secure-Weather-Hub\\Backend\\Secure Weather Hub_API\\Secure Weather Hub_API\\Program.cs*",
-              "RelativeToolTip": "Secure Weather Hub_API\\Program.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\projects_ dotnet\\Secure Weather Hub\\Secure-Weather-Hub\\Backend\\Secure Weather Hub_API\\Secure Weather Hub_API\\Program.cs",
+              "RelativeToolTip": "Secure Weather Hub_API\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwA4AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-15T10:38:04.473Z",
               "EditorCaption": ""
@@ -109,27 +109,25 @@
               "RelativeDocumentMoniker": "Secure Weather Hub_API\\Services\\WeatherService.cs",
               "ToolTip": "D:\\projects_ dotnet\\Secure Weather Hub\\Secure-Weather-Hub\\Backend\\Secure Weather Hub_API\\Secure Weather Hub_API\\Services\\WeatherService.cs",
               "RelativeToolTip": "Secure Weather Hub_API\\Services\\WeatherService.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwDsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvzsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T11:52:00.012Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-15T11:52:00.012Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "WeatherController.cs",
               "DocumentMoniker": "D:\\projects_ dotnet\\Secure Weather Hub\\Secure-Weather-Hub\\Backend\\Secure Weather Hub_API\\Secure Weather Hub_API\\Controllers\\WeatherController.cs",
               "RelativeDocumentMoniker": "Secure Weather Hub_API\\Controllers\\WeatherController.cs",
-              "ToolTip": "D:\\projects_ dotnet\\Secure Weather Hub\\Secure-Weather-Hub\\Backend\\Secure Weather Hub_API\\Secure Weather Hub_API\\Controllers\\WeatherController.cs*",
-              "RelativeToolTip": "Secure Weather Hub_API\\Controllers\\WeatherController.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\projects_ dotnet\\Secure Weather Hub\\Secure-Weather-Hub\\Backend\\Secure Weather Hub_API\\Secure Weather Hub_API\\Controllers\\WeatherController.cs",
+              "RelativeToolTip": "Secure Weather Hub_API\\Controllers\\WeatherController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T07:25:24.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-15T07:25:24.835Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\projects_ dotnet\\Secure Weather Hub\\Secure-Weather-Hub\\Backend\\Secure Weather Hub_API\\Secure Weather Hub_API\\appsettings.json",
               "RelativeDocumentMoniker": "Secure Weather Hub_API\\appsettings.json",
@@ -141,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "cities.json",
               "DocumentMoniker": "D:\\projects_ dotnet\\Secure Weather Hub\\Secure-Weather-Hub\\Backend\\Secure Weather Hub_API\\Secure Weather Hub_API\\cities.json",
               "RelativeDocumentMoniker": "Secure Weather Hub_API\\cities.json",
@@ -153,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Secure Weather Hub_API.csproj",
               "DocumentMoniker": "D:\\projects_ dotnet\\Secure Weather Hub\\Secure-Weather-Hub\\Backend\\Secure Weather Hub_API\\Secure Weather Hub_API\\Secure Weather Hub_API.csproj",
               "RelativeDocumentMoniker": "Secure Weather Hub_API\\Secure Weather Hub_API.csproj",

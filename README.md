@@ -109,8 +109,8 @@
 
 ## Test Account Credentials
 
-- **Email:** careers@fidenz.com
-- **Password:** Pass#fidenz
+- **Email:** careers@######.com
+- **Password:** Pass#####
 
 ## Deployment
 

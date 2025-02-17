@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "Secure_Weather_Hub_API.Controllers.WeatherController",
+    "Method": "GetWeather",
+    "RelativePath": "api/Weather",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Secure Weather Hub_API.props" />
+</Project>

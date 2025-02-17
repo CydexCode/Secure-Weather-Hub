@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Secure Weather Hub** is a full-stack web application that retrieves and displays weather information securely, integrating authentication and authorization using Auth0. The application consists of a **React.js frontend** and a **.NET 7 Web API backend**.
+**Secure Weather Hub** is a full-stack web application that retrieves and displays weather information securely, integrating authentication and authorization using Auth0. The application consists of a **React.js frontend** and a **.NET 8 Web API backend**.
 
 ## Features
 
@@ -22,7 +22,7 @@
 - Auth0 Authentication
 
 ### Backend:
-- .NET 7, C#, ASP.NET Core
+- .NET 8, C#, ASP.NET Core
 - JWT Authentication
 - IMemoryCache (for caching)
 
@@ -36,7 +36,7 @@
 
 ### Prerequisites
 - **Node.js** (for React frontend)
-- **.NET SDK 7** (for backend API)
+- **.NET SDK 8** (for backend API)
 - **Auth0 Account**
 - **OpenWeatherMap API Key**
 
@@ -44,7 +44,7 @@
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-repo/secure-weather-hub.git
+   git clone https://github.com/CydexCode/Secure-Weather-Hub.git
    cd secure-weather-hub/frontend
    ```
 

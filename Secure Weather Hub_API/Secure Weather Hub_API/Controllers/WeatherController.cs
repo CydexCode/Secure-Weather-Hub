@@ -1,5 +1,4 @@
-﻿
-using Microsoft.AspNetCore.Authorization;
+﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Secure_Weather_Hub_API.Services;
 using System.Threading.Tasks;
@@ -8,7 +7,7 @@ namespace Secure_Weather_Hub_API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-
+    [Authorize]  // Require authentication for all endpoints
     public class WeatherController : ControllerBase
     {
         private readonly WeatherService _weatherService;

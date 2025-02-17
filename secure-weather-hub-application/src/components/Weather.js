@@ -1,18 +1,18 @@
 import React, { useState, useEffect } from "react";
 import { useAuth0 } from "@auth0/auth0-react";
-import { fetchWeatherData } from "../services/weatherService"; // Assuming the service is set up
-import "./Weather.css";
+import { fetchWeatherData } from "../services/weatherService";
+import "../styles/Weather.css";
 
 const Weather = () => {
   const [weatherData, setWeatherData] = useState([]);
   const [error, setError] = useState(null);
-  const { isAuthenticated, user } = useAuth0();
+  const { isAuthenticated, getAccessTokenSilently } = useAuth0();
 
   useEffect(() => {
     if (isAuthenticated) {
       const getWeather = async () => {
         try {
-          const data = await fetchWeatherData();
+          const data = await fetchWeatherData(getAccessTokenSilently);
           setWeatherData(data);
         } catch (error) {
           setError(error.message);
@@ -20,7 +20,7 @@ const Weather = () => {
       };
       getWeather();
     }
-  }, [isAuthenticated]);
+  }, [isAuthenticated, getAccessTokenSilently]);
 
   if (!isAuthenticated) {
     return <p>Please log in to view weather data.</p>;
@@ -28,7 +28,7 @@ const Weather = () => {
 
   return (
     <div className="weather-container">
-      <h1>Welcome</h1>
+      <h1>Weather Information</h1>
       {error && <div className="error">{error}</div>}
       <div className="weather-list">
         {weatherData.length > 0 ? (

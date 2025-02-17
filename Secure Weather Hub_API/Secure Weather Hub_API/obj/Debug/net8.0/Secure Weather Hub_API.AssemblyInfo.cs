@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Secure Weather Hub_API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e4d2efb9b3c25cddb99630922388f31a9fc4c01")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48d271929370ca124318f61abf7ccb7f292747d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Secure Weather Hub_API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Secure Weather Hub_API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

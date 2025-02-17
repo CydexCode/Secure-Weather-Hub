@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Secure Weather Hub_API", "Secure Weather Hub_API\Secure Weather Hub_API.csproj", "{182685EC-8885-450C-A0E0-C6AA759C3CE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Secure Weather Hub_API.Services", "Secure Weather Hub_API.Services\Secure Weather Hub_API.Services.csproj", "{ED49913D-3ABA-47C4-8919-9DA7DCB12BC3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{182685EC-8885-450C-A0E0-C6AA759C3CE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{182685EC-8885-450C-A0E0-C6AA759C3CE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{182685EC-8885-450C-A0E0-C6AA759C3CE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED49913D-3ABA-47C4-8919-9DA7DCB12BC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED49913D-3ABA-47C4-8919-9DA7DCB12BC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED49913D-3ABA-47C4-8919-9DA7DCB12BC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED49913D-3ABA-47C4-8919-9DA7DCB12BC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

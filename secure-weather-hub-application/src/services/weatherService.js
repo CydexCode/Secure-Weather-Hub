@@ -1,10 +1,16 @@
 import axios from 'axios';
+import { useAuth0 } from "@auth0/auth0-react";
 
-const API_URL = "http://localhost:5114/api/Weather"; // Backend URL
+const API_URL = "http://localhost:5114/api/Weather"; // .NET API URL
 
-export const fetchWeatherData = async () => {
+export const fetchWeatherData = async (getAccessTokenSilently) => {
   try {
-    const response = await axios.get(API_URL);
+    const token = await getAccessTokenSilently(); // Fetch JWT token from Auth0
+    const response = await axios.get(API_URL, {
+      headers: {
+        Authorization: `Bearer ${token}`, // Attach JWT token
+      },
+    });
     return response.data.list.map(city => ({
       name: city.name,
       temperature: city.main.temp,

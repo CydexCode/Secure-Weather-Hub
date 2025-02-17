@@ -19,7 +19,7 @@
 - React.js
 - Redux, Redux-Saga
 - React Router
-- Auth0 Authentication
+- Auth0 Authentication  (https://github.com/CydexCode/Secure-Weather-Hub/wiki/Auth0-Account)
 
 ### Backend:
 - .NET 8, C#, ASP.NET Core

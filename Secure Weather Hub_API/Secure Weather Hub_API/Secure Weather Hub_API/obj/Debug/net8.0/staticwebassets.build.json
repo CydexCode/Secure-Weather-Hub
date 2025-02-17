@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "3BoEKpbzNEL/hkoxmodSrjkfJzFemDTtdZbB+plAw3E=",
+  "Source": "Secure Weather Hub_API",
+  "BasePath": "_content/Secure Weather Hub_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

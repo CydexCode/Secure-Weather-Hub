@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Secure Weather Hub_API.props" />
+</Project>

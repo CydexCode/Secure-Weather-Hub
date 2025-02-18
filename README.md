@@ -4,6 +4,10 @@
 
 **Secure Weather Hub** is a full-stack web application that retrieves and displays weather information securely, integrating authentication and authorization using Auth0. The application consists of a **React.js frontend** and a **.NET 8 Web API backend**.
 
+
+https://github.com/user-attachments/assets/c8209d47-3b04-4fe8-9b93-0fcb9f05a532
+
+
 ## Features
 
 - 🔐 **Secure login/logout** using Auth0 authentication.

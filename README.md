@@ -112,7 +112,6 @@ https://github.com/user-attachments/assets/c8209d47-3b04-4fe8-9b93-0fcb9f05a532
 - **Public signups are disabled**; only pre-registered users can access the system.
 
 ### Known Issues
-- Weather data is not updating in real-time due to caching; users may see outdated information.
 - Authentication token (JWT) may expire, causing failed API requests without automatic re-authentication.
 - Error handling is limited; network failures or incorrect API responses are not always displayed clearly.
 

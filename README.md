@@ -15,7 +15,7 @@ https://github.com/user-attachments/assets/c8209d47-3b04-4fe8-9b93-0fcb9f05a532
 - 🔑 **JWT-based authorization** to protect API endpoints.
 - ⚡ **Caching of weather data** for 5 minutes to reduce redundant requests.
 - 🎨 **User-friendly UI** with responsive design.
-- 🛡️ **Role-based access control** with Multi-Factor Authentication (MFA).
+- 🛡️ ** Multi-Factor Authentication (MFA)**.
 
 ## Tech Stack
 
@@ -110,6 +110,17 @@ https://github.com/user-attachments/assets/c8209d47-3b04-4fe8-9b93-0fcb9f05a532
 - Users must **log in via Auth0** to access weather data.
 - **MFA is enabled** via email verification.
 - **Public signups are disabled**; only pre-registered users can access the system.
+
+### Known Issues
+- Weather data is not updating in real-time due to caching; users may see outdated information.
+- Authentication token (JWT) may expire, causing failed API requests without automatic re-authentication.
+- Error handling is limited; network failures or incorrect API responses are not always displayed clearly.
+
+### Limitations
+- No user-specific preferences; all users receive the same weather data without customization.
+- The application currently does not support multiple temperature units (e.g., Fahrenheit, Kelvin).
+- City selection is hardcoded from a JSON file instead of allowing dynamic user input.
+- No offline support; users cannot access previously fetched weather data without an internet connection.
 
 ## Test Account Credentials
 

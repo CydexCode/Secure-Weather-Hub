@@ -15,7 +15,7 @@ https://github.com/user-attachments/assets/c8209d47-3b04-4fe8-9b93-0fcb9f05a532
 - 🔑 **JWT-based authorization** to protect API endpoints.
 - ⚡ **Caching of weather data** for 5 minutes to reduce redundant requests.
 - 🎨 **User-friendly UI** with responsive design.
-- 🛡️ ** Multi-Factor Authentication (MFA)**.
+- 🛡️ **Multi-Factor Authentication (MFA)** .
 
 ## Tech Stack
 
